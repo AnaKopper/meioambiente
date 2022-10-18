@@ -2,6 +2,16 @@ body {
     background-color:grey;
 }
 
-img{
-    height:10%
+.globo{
+    width: 10%; 
+    margin-top: 2mm;
+    margin-left: 2mm;
+    margin-bottom: 1mm;
+}
+
+.maenatureza{
+    width: 10%; 
+    margin-top: 100mm;
+    margin-left: 2mm;
+    margin-bottom: 1mm;
 }
