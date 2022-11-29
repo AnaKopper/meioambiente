@@ -1,5 +1,14 @@
 body {
     background-color:grey;
+    font-family: 'Yeseva One', cursive;
+}
+
+.texto{
+    font-size: 2em;
+    margin:20px;
+    border: 2px solid red;
+    padding: 20px;
+    text-indent: 50px;
 }
 
 .globo{
@@ -8,6 +17,7 @@ body {
     margin-left: 2mm;
     margin-bottom: 1mm;
 }
+
 
 .maenatureza{
     size: 10%;
